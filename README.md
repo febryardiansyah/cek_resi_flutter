@@ -1,6 +1,8 @@
 # track_ur_resi
 
-A new Flutter application.
+Aplikasi cek resi sicepat menggunakan flutter
+
+
 
 ## Getting Started
 
